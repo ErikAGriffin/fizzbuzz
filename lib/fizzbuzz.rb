@@ -1,0 +1,6 @@
+class FizzBuzz
+
+
+
+
+end
